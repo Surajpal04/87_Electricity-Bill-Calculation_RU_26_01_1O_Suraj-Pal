@@ -1,4 +1,3 @@
-
 FIXED_CHARGE = 50.00
 TAX_RATE = 0.05
 
